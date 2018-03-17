@@ -39,10 +39,7 @@ header{
 		height: 60px;
 
 }
-section{
-	padding-top: 1em;
-	padding-bottom: 1em;
-}
+
 ul{
 	padding-left: 1em;
 }
@@ -134,4 +131,17 @@ footer img{
 	color: #9E9E9E;
 	font-size: 1.05rem;
 	font-weight:lighter;
+}
+/*seccion04*/
+
+.gridFeatures-cell, .gridFeatures-cell--img{
+	overflow: hidden;
+	height: 380px;
+	padding: 0px;
+}
+.gridFeatures-cell{
+	padding: 7rem 5rem;
+}
+.gridFeatures-cell--img img{
+  width: 100%;
 }
