@@ -10,25 +10,19 @@ hr{
 }
 h1{
 	font-size: 28px;
-
 }
 h2{
 	font-size:34px;
-
-
 }
 h3{
 	font-size:34px;
-
 }
 h4{
 	font-size: 20px;
-
 }
 p {
     margin-bottom:  1em;
     padding-bottom: 1em;
-
 }
 a{
 	text-decoration: none;
@@ -36,8 +30,7 @@ a{
 header{
 	padding-top: .5em;
 	padding-bottom: .5em;
-		height: 60px;
-
+	height: 60px;
 }
 
 ul{
