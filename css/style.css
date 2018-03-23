@@ -10,25 +10,19 @@ hr{
 }
 h1{
 	font-size: 28px;
-
 }
 h2{
 	font-size:34px;
-
-
 }
 h3{
 	font-size:34px;
-
 }
 h4{
 	font-size: 20px;
-
 }
 p {
     margin-bottom:  1em;
     padding-bottom: 1em;
-
 }
 a{
 	text-decoration: none;
@@ -36,14 +30,12 @@ a{
 header{
 	padding-top: .5em;
 	padding-bottom: .5em;
-		height: 60px;
-
+	height: 60px;
 }
 
 ul{
 	padding-left: 1em;
 }
-
 footer img{
 	width: 5%;
 	margin:1em;
@@ -144,4 +136,63 @@ footer img{
 }
 .gridFeatures-cell--img img{
   width: 100%;
+}
+/*seccion05*/
+.saying{
+	text-align: center;
+	background: #ebebeb;
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+.saying_title{
+	padding-bottom: .2em;
+  margin-bottom: .5em;
+  margin-top: 1em;
+}
+.saying_Nombre{
+	padding-bottom: .2em;
+	margin-bottom: .2em;
+}
+.saying_Nombre--desc{
+	color: gray;
+	font-size: 16px;
+}
+.perfil img{
+	width: 50%;
+	border-radius:50%;
+}
+/*seccion06*/
+.newsletter{
+	display: table;
+	width: 100%;
+	min-height: 215px;
+	padding: 6em 0;
+	text-align: center;
+	background: url(../img/bg-masthead.jpg) no-repeat bottom center scroll;
+	background-color: #000;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	color: white
+}
+/*seccion07*/
+.lista li{
+	padding-left: 0;
+	list-style: none;
+	display: inline-block;
+	margin-left: .5em;
+	margin-right: .5em;
+}
+.lista li:first-child{
+	margin-left: 0px;
+}
+.footer{
+	padding-top: 2em;
+}
+.footer-text{
+	color: gray;
+}
+.lista li a{
+	color: #0480ff;
 }
